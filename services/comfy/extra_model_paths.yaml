@@ -17,6 +17,8 @@ a111:
   embeddings: embeddings
 
   custom_nodes: config/comfy/custom_nodes
+  animatediff_models: models/animatediff_models
+  animatediff_motion_lora: models/animatediff_motion_lora
 
   # TODO: I am unsure about these, need more testing
   # style_models: config/comfy/style_models
